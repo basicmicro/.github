@@ -1,6 +1,6 @@
 # Basicmicro — Brushed & Brushless DC Motor Controllers
 
-We design and manufacture the **RoboClaw** and **MCP** series of programmable DC motor controllers for robotics, automation, and industrial applications. Our controllers support brushed and brushless DC motors with features including auto-tune PID, quadrature encoder feedback, multiple control modes, and USB configuration through our free [Motion Studio](https://www.basicmicro.com/motor-controller-downloads) software.
+We design and manufacture programmable brushed and brushless DC motor controllers for robotics, automation, and industrial applications. Our **RoboClaw** and **MCP** product lines feature auto-tune PID, quadrature encoder feedback, multiple control modes, and USB configuration through our free [Motion Studio](https://www.basicmicro.com/motor-controller-downloads) software.
 
 This GitHub contains our official libraries, example code, and configuration files for integrating RoboClaw and MCP motor controllers into your projects.
 

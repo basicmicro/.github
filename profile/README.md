@@ -35,7 +35,7 @@ The following libraries are for **RoboClaw V5 and earlier** or **RoboClaw 2x60A 
 
 ## Brushed DC Motor Controllers
 
-RoboClaw dual-channel brushed DC motor controllers are available from **2×7A** through **2×60A** at up to 34VDC, plus high-voltage models rated to **60VDC**. All models feature regenerative braking, auto-tune PID, packet serial / RC / analog / simple serial control modes, and onboard scripting.
+RoboClaw dual-channel brushed DC motor controllers are available from **2×7A** through **2×300A** at up to 34VDC, plus high-voltage models rated to **60VDC**. All models feature regenerative braking, auto-tune PID, packet serial / RC / analog / simple serial control modes, and onboard scripting.
 ➡️ **[Browse RoboClaw Motor Controllers](https://www.basicmicro.com/motor-controller)**
 
 **MCP series** industrial motor controllers add CAN bus (CAN, CANopen, SimpleCAN), RS-232 serial, up to 8 configurable I/O pins, and the built-in MCL scripting language for standalone programmable motion control — or integrate directly with existing PLCs over CAN bus. 30A to 60A continuous at 60VDC for AGVs, industrial automation, and commercial OEM applications.

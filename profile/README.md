@@ -38,10 +38,10 @@ RoboClaw dual-channel brushed DC motor controllers are available from **2×7A** 
 
 | | |
 |---|---|
-| 🌐 **[basicmicro.com](https://www.basicmicro.com/)** | Shop, product specs, and datasheets |
-| 📖 **[Documentation & User Manuals](https://resources.basicmicro.com/)** | Full API reference, wiring guides, and tutorials |
-| 💾 **[Motion Studio Download](https://www.basicmicro.com/motor-controller-downloads)** | Free motor controller configuration, PID tuning, and diagnostics software (Windows) |
-| 🛒 **[Motor Controller Selector](https://www.basicmicro.com/motor-controller)** | Find the right controller by voltage, current, and features |
+| 🌐 **[basicmicro.com](https://www.basicmicro.com/)** | RoboClaw and MCP Product Home |
+| 📖 **[Documentation & User Manuals](https://www.basicmicro.com/motor-controller-downloads)** | User Manual, Motion Studio, DataSheets, CAD drawings |
+| 💾 **[Tutorials & Guides](https://resources.basicmicro.com/)** | Motor controller configuration, PID tuning, and diagnostics |
+| 🛒 **[Motor Controller Products](https://www.basicmicro.com/motor-controller)** | Find the right controller by voltage, current, and features |
 | 📧 **[Contact Support](https://www.basicmicro.com/Contact_ep_7.html)** | Technical support and sales inquiries |
 
 ## About Basicmicro

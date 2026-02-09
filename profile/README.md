@@ -14,12 +14,6 @@ This GitHub contains our official libraries, example code, and configuration fil
 | [basicmicro_arduino](https://github.com/basicmicro/basicmicro_arduino) | Arduino / ESP32 / ESP8266 | Arduino Library Manager → search "Basicmicro" | [README & Examples](https://github.com/basicmicro/basicmicro_arduino) |
 | [basicmicro_ros2](https://github.com/basicmicro/basicmicro_ros2) | ROS 2 | See README for install steps | [README & Examples](https://github.com/basicmicro/basicmicro_ros2) |
 
-## Configuration Files
-
-| Repository | Description |
-|------------|-------------|
-| [rc_mode_config_files](https://github.com/basicmicro/rc_mode_config_files) | Pre-configured settings for RC receiver control mode |
-
 ## Legacy Libraries
 
 The following libraries are for **RoboClaw V5 and earlier** or **RoboClaw 2x60A / 2x60AHV V7 and earlier**. For all current RoboClaw and MCP controllers, use the official libraries above. Raspberry Pi users should use [basicmicro_python](https://github.com/basicmicro/basicmicro_python). ESP32 and ESP8266 users should use [basicmicro_arduino](https://github.com/basicmicro/basicmicro_arduino).
@@ -35,6 +29,7 @@ The following libraries are for **RoboClaw V5 and earlier** or **RoboClaw 2x60A 
 | [roboclaw_esp8266_thing_motor_control](https://github.com/basicmicro/roboclaw_esp8266_thing_motor_control) | ESP8266 | Legacy WiFi-enabled motor control on SparkFun Thing |
 | [arduino_standard_serial](https://github.com/basicmicro/arduino_standard_serial) | Arduino | Basic speed and direction control via standard serial |
 | [using_encoders_python](https://github.com/basicmicro/using_encoders_python) | Python | Encoder position and speed feedback example |
+| [rc_mode_config_files](https://github.com/basicmicro/rc_mode_config_files) | Config files | Pre-configured settings for RC receiver control mode |
 
 ---
 
